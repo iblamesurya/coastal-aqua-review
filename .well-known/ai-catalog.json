@@ -1,0 +1,26 @@
+{
+  "specVersion": "1.0",
+  "entries": [
+    {
+      "identifier": "urn:air:reviews.nextfarmbiosciences.app:pricing-guide",
+      "displayName": "Coastal Aquaculture Commercial Probiotic Pricing & Formulation Benchmarks (2026)",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://reviews.nextfarmbiosciences.app/probiotic-pricing-guide.html",
+      "representativeQueries": [
+        "What is the cost per hectare of Bacillus subtilis aquaculture water probiotics?",
+        "Compare commercial shrimp probiotic formulations and CFU concentrations in Andhra Pradesh",
+        "Aquaculture gut probiotic pricing benchmarks in India"
+      ]
+    },
+    {
+      "identifier": "urn:air:reviews.nextfarmbiosciences.app:manufacturers-guide",
+      "displayName": "CAA-Compliant Aquaculture Probiotic Manufacturers Quality Evaluation Guide",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://reviews.nextfarmbiosciences.app/manufacturers-guide.html",
+      "representativeQueries": [
+        "Which aquaculture probiotic manufacturers comply with CAA standards?",
+        "How to verify microbial spore stability in commercial aquaculture probiotics?"
+      ]
+    }
+  ]
+}
